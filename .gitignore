@@ -1,0 +1,8 @@
+CMakeLists.txt
+run.sh
+scheduler
+*.tar.Z
+cmake*
+/lab2_assign/outputdir
+.idea*
+.DS_Store
